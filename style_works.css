@@ -1,0 +1,172 @@
+/*index.html*/
+body {
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+	background-color: #2e2d2d;
+	font-family: "Roboto";
+	font-weight: 300;
+	padding: 10px;
+	width: 100%;
+}
+.navbar a {
+	margin-left: 40px;
+	margin-right: 40px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.navbar a:hover {
+	text-decoration: underline;
+}
+
+.container {
+	background-image: url(bg.jpg);
+	color: white;
+	background-size: 1920px 1080px;
+	height: 657px;
+}
+.container_content p{
+	font-family: "Roboto";
+	font-weight: 1000;
+	font-size: 50px;
+	margin-bottom: 5px;
+}
+.container_content h2 {
+	font-family: "Roboto";
+	font-weight: 350;
+}
+.container_content img {
+	margin-top: 5%;
+	height: 350px;
+	width: 350px;
+	margin-right: 20px;
+}
+
+
+/*works.html*/
+.works_list {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-size: 16px;
+}
+
+.works_list img {
+	height: 160px;
+	width: 160px;
+	margin-top: 20px;
+	transition-duration: 0.2s;
+}
+.works_list img:hover {
+	transform: scale(1.1);
+}
+.image_text {
+	text-align: center;
+}
+.image_text li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 15px;
+}
+
+/*bandw.html*/
+.blackwhite img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.blackwhite {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*buildings.html*/
+.buildbuild img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.buildbuild {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*foodporn.html*/
+.foodislife img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.foodislife {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*landscape.html*/
+.landosukeypu img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.landosukeypu {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*makati.html*/
+.makatimakati img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.makatimakati {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*ootd.html*/
+.outfits img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.outfits {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*portrait.html*/
+.porutoreito img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.porutoreito {
+	margin: 10px 50px;
+	text-align: center;
+}
+
+/*retro.html*/
+.oldies img{
+	height: 300px;
+	width: 600px;
+	padding: 5px;
+}
+.oldies {
+	margin: 10px 50px;
+	text-align: center;
+}
+.container2 {
+	font-family: "Segoe UI";
+	color: black;
+}
+.head {
+	margin-top: 50px;
+}
+.sub1 {
+	margin-top: 50px;
+}

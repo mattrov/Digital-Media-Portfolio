@@ -1,0 +1,53 @@
+/*index.html*/
+body {
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+	background-color: #2e2d2d;
+	font-family: "Segoe UI";
+	font-weight: 300;
+	padding: 10px;
+	width: 100%;
+	position: fixed;
+}
+.navbar a {
+	margin-left: 40px;
+	margin-right: 40px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.navbar a:hover {
+	text-decoration: underline;
+}
+
+.container {
+	background-image: url(bg.jpg);
+	color: white;
+	background-size: 1920px 1080px;
+	height: 657px;
+}
+.container_content p{
+	font-family: "Segoe UI";
+	font-weight: 1000;
+	font-size: 50px;
+	margin-bottom: 5px;
+}
+.container_content h2 {
+	font-family: "Segoe UI";
+	font-weight: 350;
+}
+.container_content img {
+	margin-top: 5%;
+	height: 350px;
+	width: 350px;
+	margin-right: 20px;
+}
+.container2 {
+	font-family: "Segoe UI";
+	color: black;
+}
